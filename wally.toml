@@ -1,5 +1,5 @@
 [package]
-name = "hexcede/h6x"
+name = "gumoraes525/h6x"
 description = "A luau utility for constructing sandboxes to run code within."
 version = "2.1.3"
 license = "MIT"
