@@ -1,0 +1,16 @@
+{
+	"name": "H6x - Tests",
+	"tree": {
+		"$className": "DataModel",
+
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"$properties": {
+				"LoadStringEnabled": true
+			},
+			"H6x": {
+				"$path": "./src"
+			}
+		}
+	}
+}
